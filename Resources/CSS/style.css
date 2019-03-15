@@ -246,7 +246,7 @@ header
 */
 
 header {
-    background-image: url(../img/hero.jpg);
+    background-image: url(../img/hero4.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -256,13 +256,14 @@ header {
 #container-page-down{
     display: flex;
     justify-content: center;
-    font-size: 900%;
+    font-size: 500%;
     flex-grow: 1;
 }
 
 .page-down{
     position: absolute;
     bottom: 10px;
+    color: #0E0B16;
 }
 
 /*
@@ -316,7 +317,7 @@ Sections
 */
 
 .section--about-john{
-    background-image: linear-gradient(to bottom, #000000 , #0E0B16);
+    background-image: linear-gradient(to bottom, #414141 , #0E0B16);
 }
 
 .section--work-experience{
@@ -326,7 +327,7 @@ Sections
 }
 
 .section--student-life{
-    background-image: linear-gradient(to bottom, #000000 , #0E0B16);
+    background-image: linear-gradient(to bottom, #0E0B16 , #414141);
 }
 
 /*
