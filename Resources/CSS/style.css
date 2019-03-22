@@ -241,6 +241,10 @@ Navigation
     display:none;
 }
 
+.logo-nav,a {
+    border-bottom: 0px;
+}
+
 /*
 header
 */
