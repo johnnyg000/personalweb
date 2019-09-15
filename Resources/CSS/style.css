@@ -435,6 +435,12 @@ Sections
     background-image: linear-gradient(to bottom, #0E0B16 , #414141);
 }
 
+.section--certificates{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 1)), url(../img/learn.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
 /*
 
 */
