@@ -425,6 +425,10 @@ Sections
     background-image: linear-gradient(to bottom, #414141 , #0E0B16);
 }
 
+.badge{
+    z-index: 9999999999999;
+}
+
 .section--work-experience{
     background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.9)), url(../img/work.jpg);
     background-size: cover;
